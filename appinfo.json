@@ -1,0 +1,18 @@
+{
+  "uuid": "cff6366c-b783-498a-a0f2-42e93b5c95ac",
+  "shortName": "mruby-pebble-test",
+  "longName": "mruby-pebble-test",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
