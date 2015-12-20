@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pebble@grifola.xyz",
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "test",
+    "uuid": "1c2b3a44-846f-4004-ba90-ab35dca77eef",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
